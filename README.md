@@ -1,4 +1,4 @@
-[![masterHead](https://www.shutterstock.com/shutterstock/photos/1078387013/display_1500/stock-vector-programming-banner-coding-best-programming-languages-flat-illustration-concept-1078387013.jpg)
+![masterHead](https://www.shutterstock.com/shutterstock/photos/1078387013/display_1500/stock-vector-programming-banner-coding-best-programming-languages-flat-illustration-concept-1078387013.jpg)
 <h1 align="center">Hi 👋, I'm Soumik Ghosh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJiMGE5NGI3YTQ1OTAxMzE3YjdhYjcwMGIzNTM1MjE0MTgwYzU4YSZjdD1n/Xewa8pwHHvzheQFKDD/giphy.gif">
