@@ -1,7 +1,8 @@
-![MasterHead](https://github.com/SoumikGhosh9/SoumikGhosh9/blob/main/linkedin%20cover.png)
+[![MasterHead](https://github.com/SoumikGhosh9/SoumikGhosh9/blob/main/linkedin%20cover.png)
 <h1 align="center">Hi 👋, I'm Soumik Ghosh</h1>
 <h3 align="center">Hey I'm Soumik | Frontend Developer & UI/UX Designer dedicated to crafting elegant and user-centric web solutions. With a passion for responsive, dynamic, and visually engaging designs, I aim to create seamless digital experiences. Let’s collaborate to push the boundaries of web development and design!</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJiMGE5NGI3YTQ1OTAxMzE3YjdhYjcwMGIzNTM1MjE0MTgwYzU4YSZjdD1n/Xewa8pwHHvzheQFKDD/giphy.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumikghosh9&label=Profile%20views&color=0e75b6&style=flat" alt="soumikghosh9" /> </p>
 
 - 🔭 I’m currently working on **Projects**
@@ -15,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/soumikghosh9704" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumikghosh9704" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/soumik ghosh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumik ghosh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/soumik-ghosh-556651258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/soumik-ghosh-556651258/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
