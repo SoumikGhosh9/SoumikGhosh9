@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/SoumikGhosh9/SoumikGhosh9/blob/main/Mask%20group.jpg)
 <h1 align="center">Hi 👋, I'm Soumik Ghosh</h1>
-<h3 align="center"👋 Hi, I’m Soumik Ghosh!
+<h3👋 Hi, I’m Soumik Ghosh!
 
 Hey, I'm Soumik—Frontend Developer, UI/UX Designer, and Open Source Enthusiast dedicated to crafting elegant, user-centric web solutions. With a strong passion for responsive, dynamic, and visually engaging designs, I strive to create seamless digital experiences that enhance usability and innovation. Let's collaborate to push the boundaries of web development, design, and open-source innovation.</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJiMGE5NGI3YTQ1OTAxMzE3YjdhYjcwMGIzNTM1MjE0MTgwYzU4YSZjdD1n/Xewa8pwHHvzheQFKDD/giphy.gif">
