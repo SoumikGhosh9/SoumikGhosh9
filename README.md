@@ -11,7 +11,7 @@ Hey I'm Soumik | Frontend Developer & UI/UX Designer dedicated to crafting elega
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Frontend Development UI/UX Design**
+- 💬 Ask me about **Frontend Development & UI/UX Design**
 
 - 📫 How to reach me **soumikghosh09072004@gmail.com**
 
