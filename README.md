@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/SoumikGhosh9/SoumikGhosh9/blob/main/Mask%20group.jpg)
 <h1 align="center">Hi 👋, I'm Soumik Ghosh</h1>
 <h3 align="center">Hey, I'm Soumik—Frontend Developer, UI/UX Designer, and Open Source Enthusiast dedicated to crafting elegant, user-centric web solutions. With a strong passion for responsive, dynamic, and visually engaging designs, I strive to create seamless digital experiences that enhance usability and innovation. Let's collaborate to push the boundaries of web development, design, and open-source innovation.
-<img align="right" alt="Coding" width="400" margin="20px" src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJiMGE5NGI3YTQ1OTAxMzE3YjdhYjcwMGIzNTM1MjE0MTgwYzU4YSZjdD1n/Xewa8pwHHvzheQFKDD/giphy.gif](https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-b7e0-522f-87c6-82af551190ea/raw?se=2025-04-06T07%3A14%3A21Z&sp=r&sv=2024-08-04&sr=b&scid=4daa3dfd-25b4-5a56-86ee-06822e07ca35&skoid=de76bc29-7017-43d4-8d90-7a49512bae0f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-06T05%3A57%3A37Z&ske=2025-04-07T05%3A57%3A37Z&sks=b&skv=2024-08-04&sig=9JgzyuvYKOya1pXUfp4DhWE%2BEZfeALs4m6NrjFGcBK4%3D)"></h3>
+<img align="right" alt="Coding" width="400" margin="20px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWJiMGE5NGI3YTQ1OTAxMzE3YjdhYjcwMGIzNTM1MjE0MTgwYzU4YSZjdD1n/Xewa8pwHHvzheQFKDD/giphy.gif"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumikghosh9&label=Profile%20views&color=0e75b6&style=flat" alt="soumikghosh9" /> </p>
 
