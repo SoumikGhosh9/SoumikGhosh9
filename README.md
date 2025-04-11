@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/SoumikGhosh9/SoumikGhosh9/blob/main/Mask%20group.jpg)
 <h1 align="center">Hi 👋, I'm Soumik Ghosh</h1>
 <h3 align="center">Hey, I'm Soumik—Frontend Developer, UI/UX Designer, and Open Source Enthusiast dedicated to crafting elegant, user-centric web solutions. With a strong passion for responsive, dynamic, and visually engaging designs, I strive to create seamless digital experiences that enhance usability and innovation. Let's collaborate to push the boundaries of web development, design, and open-source innovation.
-<img align="right" alt="Coding" width="400" margin="20px" src="https://github.com/SoumikGhosh9/SoumikGhosh9/blob/main/github%20image.png"></h3>
+<img align="right" alt="Coding" width="300" margin="20px" src="https://github.com/SoumikGhosh9/SoumikGhosh9/blob/main/github%20image.png"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumikghosh9&label=Profile%20views&color=0e75b6&style=flat" alt="soumikghosh9" /> </p>
 
