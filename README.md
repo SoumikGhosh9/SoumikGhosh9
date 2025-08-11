@@ -95,7 +95,7 @@ I'm a passionate **Frontend Developer** and **UI/UX Designer** who loves craftin
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 📊 Quick Stats
-- **Languages:** 6+ Programming Languages
+- **Languages:** 3+ Programming Languages
 - **Frameworks:** React, Express.js, Bootstrap
 - **Databases:** MongoDB, MySQL
 - **Design Tools:** Figma, Photoshop
