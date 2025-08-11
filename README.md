@@ -6,11 +6,34 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Web+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Open+Source+Enthusiast+%E2%9C%A8;Building+Digital+Experiences+%F0%9F%9A%80)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Web+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Open+Source+Enthusiast+%E2%9C%A8;Building+Digital+Experiences+%F0%9F%9A%80)](https://git.io/typing-svg)
+  <br/>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="30%" style="opacity: 1;">
+  <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=soumikghosh9&label=Profile%20Views&color=00d9ff&style=for-the-badge&labelColor=1a1b27" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/soumikghosh9?label=Followers&style=for-the-badge&color=00d9ff&labelColor=1a1b27&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/badge/Open%20Source-❤️-ff4757?style=for-the-badge&labelColor=1a1b27" alt="Open Source Love" />
+    <img src="https://img.shields.io/badge/Available%20For-Hire-2ed573?style=for-the-badge&labelColor=1a1b27&logo=handshake&logoColor=white" alt="Available for Hire" />
+  </div>
+  
+  <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=soumikghosh9&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/soumikghosh9?label=Followers&style=for-the-badge&color=00d9ff" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge" alt="Open Source Love" />
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/Frontend-Expert-FF6B6B?style=flat-square&labelColor=1a1b27&logo=react&logoColor=white" alt="Frontend" />
+    <img src="https://img.shields.io/badge/Design-Passionate-4ECDC4?style=flat-square&labelColor=1a1b27&logo=figma&logoColor=white" alt="Design" />
+    <img src="https://img.shields.io/badge/Backend-Learning-45B7D1?style=flat-square&labelColor=1a1b27&logo=node.js&logoColor=white" alt="Backend" />
+    <img src="https://img.shields.io/badge/Innovation-Driven-FFD93D?style=flat-square&labelColor=1a1b27&logo=lightbulb&logoColor=white" alt="Innovation" />
+  </div>
+  
+  <br/>
+   
+  
+  
+  
+</div>
+  <br/>
+   
+
   
 </div>
 
@@ -35,7 +58,9 @@ I'm a passionate **Frontend Developer** and **UI/UX Designer** who loves craftin
 
 ## 🛠️ Tech Arsenal
 
-<div align="left">
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
 ### Frontend & Design
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,6 +81,9 @@ I'm a passionate **Frontend Developer** and **UI/UX Designer** who loves craftin
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+</td>
+<td width="40%" valign="top">
+
 ### Design & Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
@@ -66,7 +94,16 @@ I'm a passionate **Frontend Developer** and **UI/UX Designer** who loves craftin
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-</div>
+### 📊 Quick Stats
+- **Languages:** 6+ Programming Languages
+- **Frameworks:** React, Express.js, Bootstrap
+- **Databases:** MongoDB, MySQL
+- **Design Tools:** Figma, Photoshop
+- **Cloud:** AWS, Google Cloud Platform
+
+</td>
+</tr>
+</table>
 
 ---
 
